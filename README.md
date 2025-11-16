@@ -14,7 +14,7 @@ This project implements machine learning models on two types of datasets as requ
 ---
 
 ## Folder Structure
-```css
+```bash
 ML-Project-2025/
 │
 ├── datasets/
